@@ -1,0 +1,23 @@
+{
+  "best_threshold": 0.8241379310344827,
+  "validation_f05": 0.9621345338265704,
+  "feature_columns": [
+    "name_tok_jaccard",
+    "name_ng_jaccard",
+    "name_seq_ratio",
+    "name_len_diff",
+    "name_exact_match",
+    "name_containment",
+    "name_first_tok_match",
+    "addr_tok_jaccard",
+    "addr_ng_jaccard",
+    "addr_seq_ratio",
+    "addr_len_diff",
+    "num_jaccard",
+    "num_common_count",
+    "candidate_rank",
+    "total_candidates",
+    "target_is_s2"
+  ],
+  "model_version": "1.0.0"
+}
